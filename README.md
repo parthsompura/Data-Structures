@@ -20,5 +20,46 @@ For more information, [see](https://en.wikipedia.org/wiki/Data_structure)
 ## Stack
 ![stack](stack.gif)
 
+```c
+switch(ch)
+        {
+            case 1:
+                printf("Enter the element to be pushed::");
+                scanf("%d",&value);
+                push(value);
+                getch();
+                break;
+            case 2:
+                value=pop();
+                printf("The poped element is::%d",value);
+                getch();
+                break;
+            case 3:
+                printf("Enter the element to be searched::");
+                scanf("%d",&value);
+                peep(value);
+                getch();
+                break;
+            case 4:
+                printf("Enter the element to be updated::");
+                scanf("%d",&value);
+                printf("Enter new value::");
+                scanf("%d",&new_ele);
+                change(value,new_ele);
+                getch();
+                break;
+            case 5:
+                display();
+                getch();
+                break;
+            case 6:
+                exit(0);
+            default:
+                printf("Invalid choice");
+                getch();
+                break;
+        }
+```        
+
 ## Queue
 ![queue](queue.gif)
