@@ -188,3 +188,30 @@ switch(ch)
 ```
 ## Binary Search Tree (BST)
 ![bst](gif/bst.gif)
+```c
+switch(ch)
+        {
+            case 1:
+                create();
+                getch();
+                break;
+            case 2:
+                preorder(root);
+                getch();
+                break;
+            case 3:
+                inorder(root);
+                getch();
+                break;
+            case 4:
+                postorder(root);
+                getch();
+                break;
+            case 5:
+                exit(0);
+            default:
+                printf("Invalid choice");
+                getch();
+                break;
+        }
+```
