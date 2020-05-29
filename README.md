@@ -106,3 +106,83 @@ switch(ch)
 ![linked_list2](linked_list2.gif)
 ![linked_list3](linked_list3.gif)
 ![linked_list4](linked_list4.gif)
+```c
+switch(ch)
+        {
+            case 1:
+                if(flag==0)
+                {
+                    flag=1;
+                    create();
+                }
+                else
+                {
+                    printf("\nLinked list is already created
+                    if you want then press 13");
+                }
+                getch();
+                break;
+            case 2:
+                display();
+                getch();
+                break;
+            case 3:
+                insert_begining_singly_ll();
+                getch();
+                break;
+            case 4:
+                insert_end_singly_ll();
+                getch();
+                break;
+            case 5:
+                insert_after_desirednode_singly_ll();
+                getch();
+                break;
+            case 6:
+                insert_after_desiredposition_singly_ll();
+                getch();
+                break;
+            case 7:
+                delete_first_singly_ll();
+                getch();
+                break;
+            case 8:
+                delete_last_singly_ll();
+                getch();
+                break;
+            case 9:
+                delete_desired_node_singly_ll();
+                getch();
+                break;
+            case 10:
+                delete_before_desired_position_singly_ll();
+                getch();
+                break;
+            case 11:
+                delete_after_desired_position_singly_ll();
+                getch();
+                break;
+            case 12:
+                delete_desired_position_singly_ll();
+                getch();
+                break;
+            case 13:
+                create();
+                getch();
+                break;
+            case 14:
+                ascendingSort();
+                getch();
+                break;
+            case 15:
+                printf("Maximum number is %d",maximum());
+                getch();
+                break;
+            case 16:
+                exit(0);
+            default:
+                printf("Invalid choice");
+                getch();
+                break;
+        }
+```
