@@ -101,3 +101,8 @@ switch(ch)
                 break;
         }
 ```
+## Linked List
+![linked_list1](linked_list1.gif)
+![linked_list2](linked_list2.gif)
+![linked_list3](linked_list3.gif)
+![linked_list4](linked_list4.gif)
