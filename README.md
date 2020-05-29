@@ -61,3 +61,43 @@ switch(ch)
 ```        
 ## Queue
 ![queue](queue.gif)
+```c
+switch(ch)
+        {
+            case 1:
+                printf("Enter the element to be inserted::");
+                scanf("%d",&value);
+                insert(value);
+                getch();
+                break;
+            case 2:
+                value=remove1();
+                printf("The removed element is::%d",value);
+                getch();
+                break;
+            case 3:
+                printf("Enter the element to be searched::");
+                scanf("%d",&value);
+                search(value);
+                getch();
+                break;
+            case 4:
+                printf("Enter the element to be updated::");
+                scanf("%d",&value);
+                printf("Enter new value::");
+                scanf("%d",&new_ele);
+                update(value,new_ele);
+                getch();
+                break;
+            case 5:
+                display();
+                getch();
+                break;
+            case 6:
+                exit(0);
+            default:
+                printf("Invalid choice");
+                getch();
+                break;
+        }
+```
