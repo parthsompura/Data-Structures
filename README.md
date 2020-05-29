@@ -19,7 +19,6 @@ For more information, [see](https://en.wikipedia.org/wiki/Data_structure)
 
 ## Stack
 ![stack](stack.gif)
-
 ```c
 switch(ch)
         {
@@ -60,6 +59,5 @@ switch(ch)
                 break;
         }
 ```        
-
 ## Queue
 ![queue](queue.gif)
