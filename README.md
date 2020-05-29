@@ -1,4 +1,5 @@
 # Data Structures [![License: MIT](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)]
+(LICENSE)
 Stack, Queue, Linked List & Binary Search Tree
 This code helps you to understand the different Data structures. The data structures depicted in this code are:
 
