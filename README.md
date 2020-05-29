@@ -18,7 +18,7 @@ In computer science, a data structure is a data organization, management, and st
 For more information, [see](https://en.wikipedia.org/wiki/Data_structure)
 
 ## Stack
-![stack](stack.gif)
+![stack](gif/stack.gif)
 ```c
 switch(ch)
         {
@@ -60,7 +60,7 @@ switch(ch)
         }
 ```        
 ## Queue
-![queue](queue.gif)
+![queue](gif/queue.gif)
 ```c
 switch(ch)
         {
@@ -102,10 +102,10 @@ switch(ch)
         }
 ```
 ## Linked List
-![linked_list1](linked_list1.gif)
-![linked_list2](linked_list2.gif)
-![linked_list3](linked_list3.gif)
-![linked_list4](linked_list4.gif)
+![linked_list1](gif/linked_list1.gif)
+![linked_list2](gif/linked_list2.gif)
+![linked_list3](gif/linked_list3.gif)
+![linked_list4](gif/linked_list4.gif)
 ```c
 switch(ch)
         {
@@ -186,3 +186,5 @@ switch(ch)
                 break;
         }
 ```
+## Binary Search Tree (BST)
+![bst](gif/bst.gif)
