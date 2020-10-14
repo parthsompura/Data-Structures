@@ -1,11 +1,12 @@
 # Data Structures [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Data-Structures/blob/master/LICENSE)  [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
-Stack, Queue, Linked List & Binary Search Tree
+Stack, Queue, Linked List, Binary Search Tree & Hashing
 This code helps you to understand the different Data structures. The data structures depicted in this code are:
 
 1. Stack
 2. Queue
 3. Linked List
 4. Binary Search Tree
+5. Hash Table: Linear Probing & Quadratic Probing
 
 ### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/7)
 
@@ -215,3 +216,5 @@ switch(ch)
                 break;
         }
 ```
+## Hashing
+![hashing](gif/hashing.gif)
