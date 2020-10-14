@@ -1,5 +1,6 @@
 # Data Structures [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Data-Structures/blob/master/LICENSE)  [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
 Stack, Queue, Linked List, Binary Search Tree & Hashing
+
 This code helps you to understand the different Data structures. The data structures depicted in this code are:
 
 1. Stack
