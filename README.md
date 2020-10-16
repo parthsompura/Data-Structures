@@ -1,5 +1,5 @@
 # Data Structures [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Data-Structures/blob/master/LICENSE)  [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
-Stack, Queue, Linked List, Binary Search Tree & Hashing
+Stack, Queue, Linked List, Binary Search Tree, Hashing & B+ Tree
 
 This code helps you to understand the different Data structures. The data structures depicted in this code are:
 
@@ -8,11 +8,12 @@ This code helps you to understand the different Data structures. The data struct
 3. Linked List
 4. Binary Search Tree
 5. Hash Table: Linear Probing & Quadratic Probing
+6. B+ Tree
 
 ### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Data-Structures/links/7)
 
 ### Code Requirements
-The example code is in C ([version 3.2](https://archive.codeplex.com/?p=turboc) or higher will work).
+The example code is in C ([version 3.2](https://archive.codeplex.com/?p=turboc) or higher will work) and in Python.
 
 ### Description
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
