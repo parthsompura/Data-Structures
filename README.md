@@ -219,3 +219,5 @@ switch(ch)
 ```
 ## Hashing
 ![hashing](gif/hashing.gif)
+## B+ Tree
+![bplustree](gif/b+tree.gif)
